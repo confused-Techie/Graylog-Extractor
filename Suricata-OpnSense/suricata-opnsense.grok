@@ -1,0 +1,1 @@
+(?<Domain>\b[\w\.]+\b) %{WORD:Service}\[%{BASE16NUM:UNWANTED}\]\: %{GREEDYDATA:json_data}

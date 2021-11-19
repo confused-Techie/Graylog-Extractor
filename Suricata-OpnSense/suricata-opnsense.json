@@ -1,0 +1,6 @@
+list_separator: ,
+kv_separator: =
+key_prefix:
+key_separator: _
+replace_key_whitespace:
+key_whitespace_replacement: _
